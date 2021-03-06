@@ -1,0 +1,10 @@
+000webhost
+odilonaquecedores
+Amesmasenha@69
+
+
+FTP:
+Host: files.000webhost.com
+Username: odilonaquecedores
+password: Amesmasenha69
+porta: 21
