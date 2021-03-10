@@ -59,7 +59,7 @@
                 </div>
                 <div class="col-lg-4 col-sm-6 col-md-4 col-xs-5 col-ts-12">
                     <div class="logo">
-                        <a href="index-2.html">
+                        <a href="/htdocs/index.php">
                             <img src="assets/images/logo.png" alt="logo">
                         </a>
                     </div>
