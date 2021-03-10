@@ -5,81 +5,49 @@
                 <div class="box-footer col-xs-12 col-sm-6 col-md-6 col-lg-4">
                     <div class="widget-box">
                         <div class="single-img">
-                            <a href="index-2.html"><img src="assets/images/logo-light.png" alt="img"></a>
+                            <a href="#"><img src="assets/images/logo-light.png" alt="img"></a>
                         </div>
                         <ul class="menu">
                             <li class="menu-item">
-                                <a href="#"><span class="flaticon-placeholder"></span>45 Grand Central Terminal New
-                                    York,NY 1017 United State USA</a>
+                                <a href="#"><span class="flaticon-placeholder"></span>Endereço, 99 - Bairro - Cidade/UF</a>
                             </li>
                             <li class="menu-item">
-                                <a href="#"><span class="fa fa-phone"></span>(+123) 456 789 - (+123) 666 888</a>
+                                <a href="#"><span class="fa fa-whatsapp"></span>(00) 99999-9999</a>
                             </li>
                             <li class="menu-item">
-                                <a href="#"><span class="fa fa-envelope-o"></span>Contact@yourcompany.com</a>
-                            </li>
-                            <li class="menu-item">
-                                <a href="#"><span class="flaticon-clock"></span>Mon-Sat 9:00pm - 5:00pm Sun : Closed</a>
+                                <a href="#"><span class="fa fa-envelope-o"></span>exemplo@email.com.br</a>
                             </li>
                         </ul>
                     </div>
                 </div>
-                <div class="box-footer col-xs-12 col-sm-6 col-md-6 col-lg-2">
+                <div class="box-footer col-xs-12 col-sm-6 col-md-6 col-lg-3">
                     <div class="tanajil-custommenu default">
-                        <h2 class="widgettitle">Quick Menu</h2>
+                        <h2 class="widgettitle">Links Úteis</h2>
                         <ul class="menu">
                             <li class="menu-item">
-                                <a href="#">New arrivals</a>
+                                <a href="#">Empresa</a>
                             </li>
                             <li class="menu-item">
-                                <a href="#">Life style</a>
+                                <a href="#">Produtos</a>
                             </li>
                             <li class="menu-item">
-                                <a href="#">Interior</a>
-                            </li>
-                            <li class="menu-item">
-                                <a href="#">Lighting</a>
-                            </li>
-                            <li class="menu-item">
-                                <a href="#">Wheels</a>
+                                <a href="#">Contato</a>
                             </li>
                         </ul>
                     </div>
                 </div>
-                <div class="box-footer col-xs-12 col-sm-6 col-md-6 col-lg-2">
-                    <div class="tanajil-custommenu default">
-                        <h2 class="widgettitle">Information</h2>
-                        <ul class="menu">
-                            <li class="menu-item">
-                                <a href="#">FAQs</a>
-                            </li>
-                            <li class="menu-item">
-                                <a href="#">Track Order</a>
-                            </li>
-                            <li class="menu-item">
-                                <a href="#">Delivery</a>
-                            </li>
-                            <li class="menu-item">
-                                <a href="#">Contact Us</a>
-                            </li>
-                            <li class="menu-item">
-                                <a href="#">Return</a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="box-footer col-xs-12 col-sm-6 col-md-6 col-lg-4">
+                <div class="box-footer col-xs-12 col-sm-6 col-md-6 col-lg-5">
                     <div class="tanajil-newsletter style1">
                         <div class="newsletter-head">
-                            <h3 class="title">Newsletter</h3>
+                            <h3 class="title">Inscreva-se</h3>
                         </div>
                         <div class="newsletter-form-wrap">
                             <div class="list">
-                                Get notified of new products, limited releases, and more.
+                                Insira seu email para receber notícias e promoções.
                             </div>
                             <input type="email" class="input-text email email-newsletter"
-                                   placeholder="Your email letter">
-                            <button class="button btn-submit submit-newsletter">SUBSCRIBE</button>
+                                   placeholder="Seu email aqui...">
+                            <button class="button btn-submit submit-newsletter">Inscrever</button>
                         </div>
                     </div>
                     <div class="tanajil-socials">
@@ -110,16 +78,9 @@
             </div>
             <div class="footer-end">
                 <div class="row">
-                    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                    <div class="col-12 text-center">
                         <div class="coppyright">
-                            Copyright © 2019
-                            <a href="#">Tanajil</a>
-                            . All rights reserved
-                        </div>
-                    </div>
-                    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-                        <div class="tanajil-payment">
-                            <img src="assets/images/payments.png" alt="img">
+                            Todos direitos reservados à Odilon Aquecedores © 2021. 
                         </div>
                     </div>
                 </div>
