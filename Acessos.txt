@@ -1,10 +1,16 @@
-000webhost
-odilonaquecedores
-Amesmasenha@69
+Freenom
+user: realfeelipe@gmail.com
+pass: Amesmasenha@69
 
+Infinityfree: http://odilonaquecedores.rf.gd/
+user: epiz_28116273
+pass: Amesmasenha@69
 
-FTP:
-Host: files.000webhost.com
-Username: odilonaquecedores
-password: Amesmasenha69
-porta: 21
+Infinityfree FTP:
+host: ftpupload.net
+user: epiz_28116273
+pass: gCZx6FbU9V9T
+Port: 21
+
+DNS's Infinityfree
+ns1.epizy.com and ns2.epizy.com
